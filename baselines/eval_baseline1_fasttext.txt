@@ -1,0 +1,20 @@
+              precision    recall  f1-score   support
+
+         eml     0.1557    0.3406    0.2137       825
+         fur     0.0000    0.0000    0.0000      1323
+         lij     0.0000    0.0000    0.0000      2282
+         lld     0.0000    0.0000    0.0000      2200
+         lmo     0.1834    0.5660    0.2771       689
+         nap     0.4912    0.4156    0.4503      2026
+         pms     0.0000    0.0000    0.0000         0
+    roa_tara     0.0000    0.0000    0.0000       603
+          sc     0.0000    0.0000    0.0000         0
+         scn     0.0000    0.0000    0.0000         0
+         vec     0.1333    0.2125    0.1638      1139
+
+   micro avg     0.1945    0.1583    0.1746     11087
+   macro avg     0.0876    0.1395    0.1004     11087
+weighted avg     0.1264    0.1583    0.1322     11087
+
+Classification report for baseline with 10 best FastText predictions.
+
