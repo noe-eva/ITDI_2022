@@ -8,10 +8,10 @@ VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI
 
 
 # Wikisource
-- https://**(lij|nap|pms|vec)**\.wikisource.org/
-- https://wikisource.org/wiki/Main_Page/**(Furlan|Ladin|Lumbaart|Sicilianu)**
-- https://wikisource.org/wiki/Category:**<(Sardu|Sicilianu)>**
-- https://it.wikisource.org/wiki/Categoria:Testi_in\_**(napoletano|siciliano)**
+- https:// **(lij|nap|pms|vec)** .wikisource.org/
+- https://wikisource.org/wiki/Main_Page/ **(Furlan|Ladin|Lumbaart|Sicilianu)**
+- https://wikisource.org/wiki/Category: **(Sardu|Sicilianu)**
+- https://it.wikisource.org/wiki/Categoria:Testi_in_ **(napoletano|siciliano)**
 - https://it.wikisource.org/wiki/Biancogne
 
 # Other Webpages
