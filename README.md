@@ -2,6 +2,7 @@
 VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI)
 
 
+ <!--
 ## Reference
 
 @inproceedings{2022-findings-vardial,
@@ -20,5 +21,5 @@ VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI
  address = "Gyeongju, Republic of Korea",
  publisher = "International Committee on Computational Linguistics (ICCL)"
 }
-
+-->
 
