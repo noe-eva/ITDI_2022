@@ -7,14 +7,14 @@ VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI
 ## Online Sources for DEV/TEST set
 
 
-# Wikisource
+### Wikisource
 - https:// **(lij|nap|pms|vec)** .wikisource.org/
 - https://wikisource.org/wiki/Main_Page/ **(Furlan|Ladin|Lumbaart|Sicilianu)**
 - https://wikisource.org/wiki/Category: **(Sardu|Sicilianu)**
 - https://it.wikisource.org/wiki/Categoria:Testi_in_ **(napoletano|siciliano)**
 - https://it.wikisource.org/wiki/Biancogne
 
-# Other Webpages
+### Other Webpages
  - https://www.dialettando.com
 - https://arlef.it/it/materiali/
 - https://www.filologicafriulana.it/lenghe-e-culture/
