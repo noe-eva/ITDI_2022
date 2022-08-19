@@ -29,9 +29,9 @@ y_pred = pred_df[0].tolist()
 if not len(y_true) == len(y_pred):
     raise AssertionError("System output does not have the same length as the Gold Standard.")
 
-all_dev_labels = sorted(list(set((y_true + y_pred))))
+labels = sorted(list(set((y_true + y_pred))))
 
 # zero_division=warn: acts as 0, but warnings are raised when there is
 # a zero division, i.e. when all predictions and labels are negative
-print(classification_report(y_true, y_pred, target_names=all_dev_labels, zero_division='warn'))
+print(classification_report(y_true, y_pred, target_names=labels, zero_division='warn'))
 
