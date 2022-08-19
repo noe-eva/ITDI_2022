@@ -30,11 +30,13 @@ VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI
 - http://rapallosalvatore.blogspot.com/p/raccolta-poesie-in-dialetto-siciliano.html 
 
 
- <!--
-
 
 ## Reference
 
+Please cite the overview paper of the VarDial 2022 evaluation campaign:
+
+
+```
 @inproceedings{2022-findings-vardial,
  title = "Findings of the {V}ar{D}ial Evaluation Campaign 2022",
  author = "Aepli, No{\"e}mi  and
@@ -51,5 +53,4 @@ VarDial 2022 Shared Task Identification of Languages and Dialects of Italy (ITDI
  address = "Gyeongju, Republic of Korea",
  publisher = "International Committee on Computational Linguistics (ICCL)"
 }
--->
-
+```
