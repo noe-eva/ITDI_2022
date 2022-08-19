@@ -4,7 +4,10 @@
 # wikipedias from 01.03.2022
 
 
-# NOTE: dumps from 01.03.2022 are not available anymore -> they are in the folder wiki_dumps in this github repo
+# NOTE: dumps from 01.03.2022 are not available anymore
+# 		get the ones from 01.03.2022 from zenodo 
+#		or download the newer ones (in which case change name for wikiextractor)
+
 #wget https://dumps.wikimedia.org/napwiki/20220301/napwiki-20220301-pages-articles-multistream.xml.bz2
 #wget https://dumps.wikimedia.org/vecwiki/20220301/vecwiki-20220301-pages-articles-multistream.xml.bz2
 #wget https://dumps.wikimedia.org/pmswiki/20220301/pmswiki-20220301-pages-articles-multistream.xml.bz2
@@ -19,6 +22,7 @@
 #wget https://dumps.wikimedia.org/itwiki/20220301/itwiki-20220301-pages-articles-multistream.xml.bz2
 
 
+# wikiextractor: https://github.com/attardi/wikiextractor
 python -m wikiextractor.WikiExtractor napwiki-20220301-pages-articles-multistream.xml.bz2 -o nap_texts --json
 python -m wikiextractor.WikiExtractor vecwiki-20220301-pages-articles-multistream.xml.bz2 -o vec_texts --json
 python -m wikiextractor.WikiExtractor pmswiki-20220301-pages-articles-multistream.xml.bz2 -o pms_texts --json
