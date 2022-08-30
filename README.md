@@ -21,7 +21,8 @@ Please refer to the overview paper _Findings of the VarDial Evaluation Campaign 
 
 ## Languages & Dialects
 
-![Dialetti_e_lingue_in_Italia](https://user-images.githubusercontent.com/32330160/187560691-2ee954fe-4fb2-4360-869a-4ab68ae3b73f.png)
+![1024px-Dialetti_e_lingue_in_Italia](https://user-images.githubusercontent.com/32330160/187560839-b38719ff-7a47-4002-88ff-fe4996ce1012.png)
+
 
 https://upload.wikimedia.org/wikipedia/commons/3/32/Dialetti_e_lingue_in_Italia.png
 Antonio Ciccolella, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
@@ -32,14 +33,19 @@ Antonio Ciccolella, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0
 
 
 ### Wikisource
+
+```
 - https:// **(lij|nap|pms|vec)** .wikisource.org/
 - https://wikisource.org/wiki/Main_Page/ **(Furlan|Ladin|Lumbaart|Sicilianu)**
 - https://wikisource.org/wiki/Category: **(Sardu|Sicilianu)**
 - https://it.wikisource.org/wiki/Categoria:Testi_in_ **(napoletano|siciliano)**
 - https://it.wikisource.org/wiki/Biancogne
+```
 
 ### Other Webpages
- - https://www.dialettando.com
+
+```
+- https://www.dialettando.com
 - https://arlef.it/it/materiali/
 - https://www.filologicafriulana.it/lenghe-e-culture/
 - https://www.bulgnais.com/libri.html
