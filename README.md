@@ -21,6 +21,7 @@ Please refer to the overview paper _Findings of the VarDial Evaluation Campaign 
 
 ## Languages & Dialects
 
+
 ![1024px-Dialetti_e_lingue_in_Italia](https://user-images.githubusercontent.com/32330160/187560839-b38719ff-7a47-4002-88ff-fe4996ce1012.png)
 
 
@@ -58,7 +59,7 @@ Antonio Ciccolella, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0
 - http://www.salviamoilsiciliano.com/raccolte/poesie/ 
 - http://www.salviamoilsiciliano.com/raccolte/commedie/ 
 - http://rapallosalvatore.blogspot.com/p/raccolta-poesie-in-dialetto-siciliano.html 
-
+```
 
 
 ## Reference
