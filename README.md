@@ -18,6 +18,16 @@ The systems are evaluated on sentence level.
 
 Please refer to the overview paper _Findings of the VarDial Evaluation Campaign 2022_ cited below, which contains short descriptions of each team’s systems including references to all system description papers published in the VarDial work shop poceedings.
 
+
+## Languages & Dialects
+
+![Dialetti_e_lingue_in_Italia](https://user-images.githubusercontent.com/32330160/187560691-2ee954fe-4fb2-4360-869a-4ab68ae3b73f.png)
+
+https://upload.wikimedia.org/wikipedia/commons/3/32/Dialetti_e_lingue_in_Italia.png
+Antonio Ciccolella, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+
+
 ## Online Sources for DEV/TEST set
 
 
