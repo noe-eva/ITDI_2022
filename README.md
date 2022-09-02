@@ -8,7 +8,7 @@ Processing for Similar Language Varieties and Dialects (VarDial)_ workshop co-lo
 
 **Training data**: Wikipedia dumps (“pages-articles-multistream.xml.bz2”, from 01.03.2022) of 11 languages and dialects of Italy (Piedmontese, Venetian, Sicilian, Neapolitan, Emilian-Romagnol, Tarantino, Sardinian, Ligurian, Friulian, Ladin, Lombard). 
 
-**Dev & Test data**: Newly collected text samples (sources unknown by participants) of a subset of the given language varieties for training.
+**Dev & Test data**: Newly collected text samples (sources unknown by participants) of a subset of the given language varieties for training. For details please check the paper _Findings of the VarDial Evaluation Campaign 2022_ cited below.
 
 The task is classification, i.e. the model is required to discriminate between different language varieties. As the training data is provided in the form of raw Wikipedia dumps, careful pre-processing of the data is part of the task. 
 The task is closed, therefore, participants are not allowed to use external data to train their models. Exceptions are off-the-shelf pre-trained language models from the HuggingFace model hub or similar, the use of which has to be clearly stated. 
@@ -17,49 +17,6 @@ The systems are evaluated on sentence level.
 ## Results
 
 Please refer to the overview paper _Findings of the VarDial Evaluation Campaign 2022_ cited below, which contains short descriptions of each team’s systems including references to all system description papers published in the VarDial work shop poceedings.
-
-
-## Languages & Dialects
-
-
-![1024px-Dialetti_e_lingue_in_Italia](https://user-images.githubusercontent.com/32330160/187560839-b38719ff-7a47-4002-88ff-fe4996ce1012.png)
-
-
-https://upload.wikimedia.org/wikipedia/commons/3/32/Dialetti_e_lingue_in_Italia.png
-Antonio Ciccolella, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-
-
-
-## Online Sources for DEV/TEST set
-
-
-### Wikisource
-
-```
-- https:// **(lij|nap|pms|vec)** .wikisource.org/
-- https://wikisource.org/wiki/Main_Page/ **(Furlan|Ladin|Lumbaart|Sicilianu)**
-- https://wikisource.org/wiki/Category: **(Sardu|Sicilianu)**
-- https://it.wikisource.org/wiki/Categoria:Testi_in_ **(napoletano|siciliano)**
-- https://it.wikisource.org/wiki/Biancogne
-```
-
-### Other Webpages
-
-```
-- https://www.dialettando.com
-- https://arlef.it/it/materiali/
-- https://www.filologicafriulana.it/lenghe-e-culture/
-- https://www.bulgnais.com/libri.html
-- http://www.tarantonostra.com/
-- https://www.istitutoladino.it
-- http://www.linguasiciliana.org
-- https://www.lingualombarda.it/index.php/milanese.html
-- http://www.salviamoilsiciliano.com/raccolte/
-- http://www.museomirabilesicilia.it/folklore-siciliano.html 
-- http://www.salviamoilsiciliano.com/raccolte/poesie/ 
-- http://www.salviamoilsiciliano.com/raccolte/commedie/ 
-- http://rapallosalvatore.blogspot.com/p/raccolta-poesie-in-dialetto-siciliano.html 
-```
 
 
 ## Reference
