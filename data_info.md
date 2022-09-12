@@ -37,16 +37,18 @@ The development and test data come from the websites given below.
 
 ## DEV/TEST Split
 
-| **Language**         | **DEV source** | **TEST Sourde**         |
-|----------------------|----------------|-------------------------|
-| **Emilian-Romagnol** | -              | web                     |
-| **Friulian**         | 1 book         | editions of 1 newspaper |
-| **Ladin**            | -              | books & WS              |
-| **Ligurian**         | WS books       | 1 WS book               |
-| **Lombard**          | 1 book         | several books           |
-| **Neapolitan**       | -              | web & WS books          |
-| **Piedmontese**      | WS             | -                       |
-| **Sardinian**        | WS & web       | -                       |
-| **Sicilian**         | WS & web       | -                       |
-| **Tarantino**        | -              | 1 website               |
-| **Venetian**         | WS & web       | 1 WS book               |
+WS = Wikisource, web = websites (see above)
+
+| **Language**         | **DEV source** | **TEST Sourde**                 |
+|----------------------|----------------|---------------------------------|
+| **Emilian-Romagnol** | -              | web                             |
+| **Friulian**         | 1 book         | several editions of 1 newspaper |
+| **Ladin**            | -              | books & WS                      |
+| **Ligurian**         | WS books       | 1 WS book                       |
+| **Lombard**          | 1 book         | several books                   |
+| **Neapolitan**       | -              | web & WS books                  |
+| **Piedmontese**      | WS             | -                               |
+| **Sardinian**        | WS & web       | -                               |
+| **Sicilian**         | WS & web       | -                               |
+| **Tarantino**        | -              | 1 website                       |
+| **Venetian**         | WS & web       | 1 WS book                       |
