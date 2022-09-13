@@ -1,6 +1,4 @@
-import pandas as pd
-from sklearn.metrics import accuracy_score, f1_score, classification_report
-import sys
+#!/usr/bin/env python3
 
 """
 Evaluation script for the VarDial ITDI shared task 2022.
@@ -14,6 +12,10 @@ show a warning when there is a class which has never been predicted
 
 May 2022, naepli@cl.uzh.ch
 """
+
+import pandas as pd
+from sklearn.metrics import accuracy_score, f1_score, classification_report
+import sys
 
 if not len(sys.argv) > 2:
 	print(len(sys.argv))
