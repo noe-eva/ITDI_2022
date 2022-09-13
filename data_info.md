@@ -39,7 +39,7 @@ The development and test data come from the websites given below.
 
 WS = Wikisource, web = websites (see above)
 
-| **Language**         | **DEV source** | **TEST Sourde**                 |
+| **Language**         | **DEV source** | **TEST Source**                 |
 |----------------------|----------------|---------------------------------|
 | **Emilian-Romagnol** | -              | web                             |
 | **Friulian**         | 1 book         | several editions of 1 newspaper |
