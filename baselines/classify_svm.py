@@ -4,7 +4,7 @@ import json, os
 import sklearn.svm, sklearn.feature_extraction.text, sklearn.utils, sklearn.linear_model
 
 # the path to the folder where the wikipedia dumps are extracted, i.e. the folder containing eml_texts, fur_texts etc.
-DATAPATH="../../itdi/experiment/"
+DATAPATH="../task"
 # the path to the folder where the dev and test sets are located
 TESTPATH="../task"
 
